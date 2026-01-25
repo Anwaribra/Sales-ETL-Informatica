@@ -1,2 +1,11 @@
 sources/ 
 requirements.txt
+
+# Environment variables (contains credentials)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+db_config.py
