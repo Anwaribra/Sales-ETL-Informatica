@@ -1,5 +1,5 @@
 # Sales ETL Pipeline using Informatica
-
+ 
 
 This project demonstrates an **end-to-end ETL pipeline built using Informatica PowerCenter**.
 The pipeline extracts sales data from multiple sources, applies business transformations, and loads the processed data into a data warehouse for analytics and reporting.
